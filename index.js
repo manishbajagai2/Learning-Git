@@ -1,4 +1,4 @@
-let myName = "kjfnvksjdfnvjksdfkbnv"
+let myName = "Manish"
 
 if (myName == "Manish") {
     console.log("I am a superman")
